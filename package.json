@@ -33,7 +33,7 @@
   "dependencies": {
     "@angular-eslint/schematics": "^13.0.0-alpha.0",
     "@angular-material-extensions/pages": "^4.0.0",
-    "@angular-material-extensions/password-strength": "^9.0.0",
+    "@angular-material-extensions/password-strength": "^10.0.0",
     "@angular/animations": "^13.0.0",
     "@angular/cdk": "^13.0.0",
     "@angular/common": "^13.0.0",
